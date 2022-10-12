@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: palevioletred;
+}
+
+h1:hover {
+    color: orangered;
+}
+label {
+    color: purple;
+}
+
+#result {
+    font-size: 30px;
+    color:brown;
+}
+
+#resultArea {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+}
