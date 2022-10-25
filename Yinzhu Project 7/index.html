@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Guessing Game </title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+<body>
+    <header>
+        <h1>GUESSING GAME</h1>
+        <h2>[001 - 100]</h2>
+    </header>
+    <table class="fiveGuesses">
+        <tr class="fiveGuessesTr">
+            <td id="input1"> </td>
+            <!-- <td> </td> -->
+            <td id="input2"> </td>
+            <!-- <td> </td> -->
+            <td id="input3"> </td>
+            <!-- <td>  </td> -->
+            <td id="input4"> </td>
+            <!-- <td>  </td> -->
+            <td id="input5">  </td>
+        </tr>
+    </table >
+    <div class="inputAndHints">
+        <h2 class="hintZone" id="hintZone1"> </h2>
+        <div class="inputZone">
+            <input type="number" class="inputNumber" max="100" min="1" placeholder="1~100">
+            <button id="guessButton"> Guess </button>
+            <button id="resetButton"> Reset </button>
+            <button id="hintButton"> Hint </button>
+        </div>
+        <h2 class="hintZone" id="hintZone2"> </h2>
+    </div>
+
+    <footer> 2022 Copyright @Yinzhu Su</footer>
+</body>
+</html>

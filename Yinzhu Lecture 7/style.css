@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    font-family: "Franklin Gothic Medium";
+  }
+  
+  body {
+    background-color: #222;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  table {
+    background-color: pink;
+  }
+  
+  td {
+    height: 50px;
+    width: 50px;
+    background-color: lightgrey;
+  }
+  
