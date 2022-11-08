@@ -1,0 +1,12 @@
+[
+    {"name": "Milo", "type": "cat", "height": 80 ,"eyes": 2}, 
+
+    {"name": "Tim", "type": "cat", "height": 30,"eyes": 1}, 
+
+    {"name": "Noodle", "type": "cat", "height": 90, "eyes": 2}, 
+
+    {"name": "Chiba", "type": "dog", "height": 60, "eyes": 2}, 
+
+    {"name": "Lily", "type": "dog", "height": 20, "eyes": 2}
+    
+]
