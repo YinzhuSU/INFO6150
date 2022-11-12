@@ -1,0 +1,7 @@
+export {default as Header} from "./Header.js"
+export {default as Educations} from "./Educations.js"
+export {default as TechnicalSkills} from "./TechnicalSkills.js"
+export {default as Projects} from "./Projects.js"
+export {default as WorkExperiences} from "./WorkExperiences.js"
+export {default as ContactInformation} from "./ContactInformation.js"
+export {default as Footer} from "./Footer.js"

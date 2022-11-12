@@ -1,0 +1,73 @@
+[
+    {
+        "company": "IBM",
+        "title": "Senior Technical Support Engineer (Band-7)",
+        "date-range": "Apr. 2022 ~ Jul. 2022",
+        "location": "Beijing, China",
+        "description": [
+            "• Launched and led support team and strategy for new product support mission IBM ODM",
+            "• Cooperated with development teams to fix 16 defects and proposed 8 enhancements from five products",
+            "• Won awards including NPS Star Awards, Standout New-Comer RockIT Award, Restricted Stock Units Equity Award"
+        ],
+        "skills": [
+            "SQL",
+            "Leadership",
+            "IBM Operational Decision Manager (ODM)",
+            "JavaScript",
+            "Java"
+        ]
+    },
+    {
+        "company": "IBM",
+        "title": "Technical Support Engineer (Band-7)",
+        "date-range": "Sept. 2019 ~ Apr. 2022",
+        "location": "Beijing, China",
+        "description": [
+            "• Provided technical support assistance using phone and remote video sessions to global customers including individuals and corporate clients, such as Boeing, Samsung; Collaborated with technical support specialists and developers from U.S. and Europe",
+            "• Troubleshot and resolved more than 400 technical issues for five different products",
+            "• Launched a podcast about machine learning and published it to 346k worldwide IBMers. Got lots of appreciative comments",
+            "• Increased customer reviews in a fast-paced and pandemic environment. Contributed a quarter of the perfect-10-score NPS feedbacks among 23 teammates, helped our team rise from seventh to first in customer satisfaction out of the 10 worldwide teams"
+        ],
+        "skills": [
+            "Java",
+            "IBM Business Automation Workflow (BAW)",
+            "IBM Business Process Manager (BPM)",
+            "IBM Case Manager (ICM)"
+        ]
+    },
+    {
+        "company": "Tencen",
+        "title": "Developer Intern",
+        "date-range": "Jul. 2019 ~ Aug. 2019",
+        "location": "Shenzhen, Guagndong, China",
+        "description": [
+            "• Wrote HTML, CSS, and JavaScript to develop an Enterprise Live Streaming Platform based on WeChat Mini Program",
+            "• Utilized Tencent Cloud to achieve a fully-fledged live streaming web player with live commenting, voice- and video-chatting",
+            "• Launched on WeChat on Jan. 2020. Exceeded one million users in Jul. 2020"
+        ],
+        "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "WeChat Mini Programs",
+            "Cloud Computing"
+        ]
+    },
+    {
+        "company": "B&W Tek",
+        "title": "Software Intern",
+        "date-range": "Jun. 2018 ~ Sept. 2018",
+        "location": "Newark, DE",
+        "description": [
+            "• Developed a Visualized DBMS with SQLite and a Raman Spectrometer Files Format Converter program following MVC Pattern and GUI Architectures using Qt and C++, solved the long-existing data format inconsistency issue for the company",
+            "• Optimized the code structure and reduced code redundancy by 57%"
+        ],
+        "skills": [
+            "Qt",
+            "C++",
+            "MVC",
+            "SQLite",
+            "Python"
+        ]
+    }
+]

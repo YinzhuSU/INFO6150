@@ -1,0 +1,38 @@
+[
+    {
+        "Programming Languages": [
+            "Java",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "C++",
+            "Python",
+            "Swift",
+            "Objective-C"
+        ]
+    },
+    {
+        "Frameworks and Libraries": [
+            "React.js",
+            "Node.js",
+            "Flask",
+            "Qt",
+            "NumPy",
+            "pandas",
+            "scikit-learn",
+            "OpenCV"
+        ]
+    },
+    {
+        "Database, IDE, and Tools": [
+            "SQLite",
+            "Apache Cassandra DataStax",
+            "MongoDB",
+            "Firebase",
+            "VS Code",
+            "IntelliJ",
+            "PyCharm",
+            "Jupyter"
+        ]
+    }
+]

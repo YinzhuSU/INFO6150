@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Legend of Zelda Inventory Simulator Website",
+        "date-range": "Sept. 2022 ~ Oct. 2022",
+        "description": [
+            "Built the front-end of the website based on React.js",
+            "Used Apache Cassandra DataStax DB as the NoSQL database. Wrote Cassandra Query Language (CQL) and Graph Query Language (GQL) to build the scheme of the database",
+            "Used Node.js for data communication between front-end and database"
+        ]
+    },
+    {
+        "title": "IBM Customer Support Automation Tool",
+        "date-range": "Jun. 2021 ~ Sept. 2021",
+        "description": [
+            "Took part in IBM technical competitions. Using JavaScript, JSON, and CSS, developed a Firefox add-on, enabling clients to interact with product documentations, reducing the mistakes caused by clients' unfamiliarity with command-lines by 39%",
+            "\nUsing JavaScript and IBM RPA, developed a tool to automatically follow up idle cases, saving 12% working time for support engineers and significantly reducing the aged case rate by 42%"
+        ]
+    },
+    {
+        "title": "Santander Customer Prediction - Kaggle Competition: Machine Learning and Finance",
+        "date-range": "Jan. 2019 ~ May 2019",
+        "description": [
+            "Utilized Machine Learning algorithms including SVM, KNN, Decision Tree & AdaBoost, to help Santander Bank predict potential customers",
+            "Achieved a forecasting accuracy of 97.47% and an F1-score of 87% after handling imbalanced data with SMOTE, GAN, and Deep Learning algorithms"
+        ]
+    },
+    {
+        "title": "Framingham School Bus Project: Data Processing and Route Optimization",
+        "date-range": "Sept. 2018 ~ Dec. 2018",
+        "description": [
+            "Wrote python in Jupyter Notebook, used NumPy and pandas to analyze bus routes and schedules of Framingham Public Schools",
+            "Implemented K-Means Clustering in scikit-learn and combined with Google Maps API to optimize the school bus routes. As a result, we helped Framingham Public Schools reduce bus expenses by 9.5%"
+        ]
+    },
+    {
+        "title": "BU tutor: A social network connecting students and tutors",
+        "date-range": "Jan. 2018 ~ May 2018",
+        "description": [
+            "Developed a Web App based on the AWS Cloud9 platform using HTML, CSS, and JavaScript",
+            "Deployed database in MongoDB, configured Google Sign-In API into login panels and combined Google Calendar API to enable course reservation features"
+        ]
+    },
+    {
+        "title": "Hair Style Simulation",
+        "date-range": "Sept. 2017 ~ Dec. 2017",
+        "description": [
+            "Wrote Swift and Objective-C to develop an iOS App called Hair Style Simulation, enabling users to simulate their appearances based on the selection of hairstyle using their phone and recommend hairstyles to users based on the shape of their face",
+            "Designed UI via storyboard on Xcode, and deployed database in Firebase to save user information",
+            "Used CoreImage to detect human faces and combined GrabCut algorithm to distinguish the hair part from the face"
+        ]
+    }
+]

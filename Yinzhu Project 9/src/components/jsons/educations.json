@@ -1,0 +1,23 @@
+[
+    {
+        "institution": "Northeastern University",
+        "degree": "Master of Science",
+        "major": "Information Systems",
+        "location": "San Jose, CA",
+        "date-range": "Sep. 2022 ~ Expected May 2024"
+    },
+    {
+        "institution": "Boston University",
+        "degree": "Master of Science",
+        "major": "Electrical and Computer Engineering with Practice",
+        "location": "Boston, MA",
+        "date-range": "Sep. 2017 ~ May 2019"
+    },
+    {
+        "institution": "Chongqing University",
+        "degree": "Bachlor of Engineering",
+        "major": "Electrical Engineering and Automation",
+        "location": "Chongqing, China",
+        "date-range": "Sep. 2013 ~ Jun. 2017"
+    }
+]

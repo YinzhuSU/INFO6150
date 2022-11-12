@@ -1,0 +1,6 @@
+.footer {
+    background-color: blueviolet;
+}
+
+/* If I input h1 instead of .footer, then the h1 inside Header.js will also be changed,
+even though Header.js does not import Footer.css. Why???*/
