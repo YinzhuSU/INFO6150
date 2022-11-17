@@ -1,6 +1,10 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
 h1 {
-    background-color: aqua;
     text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2 {
@@ -8,7 +12,7 @@ h2 {
 }
 
 .navigitorBar {
-    background-color: bisque;
+    /* background-color: bisque; */
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -27,20 +31,71 @@ h2 {
     background-color: brown;
 }
 
+.downloadResume {
+    height: 62px;
+    width: 100px;
+    background-color:midnightblue;
+    color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 12px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 .contactInformation {
     text-align: center;
     border: 1px solid black;
     background-color:lightgreen;
-
+    margin: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
 }
+
+#githubLogo {
+    height: 70px;
+}
+
+#linkedinLogo {
+    height: 70px;
+}
+
 
 .individualEducation {
     text-align: center;
     border: 1px solid black;
     background-color: aqua;
     height: 220px;
-    width: 200px;
+    margin: 10px;
+    padding: 10px;
     float: left;
+}
+
+.darkModeButton {
+    height: 72px;
+    width: 100px;
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    font-style: oblique;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: fixed;
+    right: 30px;
+    top: 30px;
+}
+
+.individualSkill {
+    text-align: center;
+    border: 1px solid black;
+    background-color:darksalmon;
+    height: 220px;
+    float: left;
+    margin: 8px;
+    height: 68px;
+    width: 500px;
+
 }
 
 .individualProject {
@@ -48,6 +103,7 @@ h2 {
     background-color: pink;
     float: left;
     padding: 10px;
+    margin: 10px;
 
 }
 
@@ -56,10 +112,18 @@ h2 {
     background-color: lightblue;
     float: left;
     padding: 10px;
+    margin: 10px;
 }
 
 
 .darkModeActivite {
     background-color: black;
     color: white;
+}
+
+.companyImage {
+    height: 100px;
+    position: absolute;
+    right: 20px;
+    margin-top: -240px;
 }

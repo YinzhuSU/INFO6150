@@ -15,7 +15,8 @@
             "IBM Operational Decision Manager (ODM)",
             "JavaScript",
             "Java"
-        ]
+        ],
+        "image" : "https://animationvisarts.com/wp-content/uploads/2021/01/IBM-Logo-Design-1972-present.png"
     },
     {
         "company": "IBM",
@@ -33,10 +34,11 @@
             "IBM Business Automation Workflow (BAW)",
             "IBM Business Process Manager (BPM)",
             "IBM Case Manager (ICM)"
-        ]
+        ],
+        "image" : "https://animationvisarts.com/wp-content/uploads/2021/01/IBM-Logo-Design-1972-present.png"
     },
     {
-        "company": "Tencen",
+        "company": "Tencent",
         "title": "Developer Intern",
         "date-range": "Jul. 2019 ~ Aug. 2019",
         "location": "Shenzhen, Guagndong, China",
@@ -51,7 +53,8 @@
             "CSS",
             "WeChat Mini Programs",
             "Cloud Computing"
-        ]
+        ],
+        "image" : "https://png2.cleanpng.com/sh/34da680da30a6e64dc36d68e9addf631/L0KzQYm3VsMxN5l6jZH0aYP2gLBuTgRmdpRqhuY2YoX2ebBskCMufJZogND4bHBqiX72lPNuc6V4ReZsZXj8PcTymfRidpRqRadrM0fmQYjoVPQ2amU1Rqo5Nkm4QIO9UcU0OGQ9SKgBNkO0Roq1kP5o/kisspng-tencent-business-technology-otcmkts-tcehy-skydance-5b37c17a4d5b40.8069502615303806663169.png"
     },
     {
         "company": "B&W Tek",
@@ -68,6 +71,7 @@
             "MVC",
             "SQLite",
             "Python"
-        ]
+        ],
+        "image" : "https://tukuz.com/wp-content/uploads/2020/03/bw-tek-logo-vector.png"
     }
 ]

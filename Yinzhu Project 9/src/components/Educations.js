@@ -3,13 +3,12 @@ import educations from "./jsons/educations.json";
 
 const Educations = () => {
     const [darkMode, setDarkMode] = useState("lightMode")
-    console.log(darkMode)
     const darkModeHelper = () => {
         setDarkMode(darkMode === "" ? "darkModeActivite" : "")
     }
 
     return <>
-        <button onClick={darkModeHelper}>Dark Mode</button>
+        <button onClick={darkModeHelper} className="darkModeButton">Dark Mode</button>
         {
             educations.map((education, index) => (
                 <div key={index} className={`individualEducation ${darkMode}`}>
