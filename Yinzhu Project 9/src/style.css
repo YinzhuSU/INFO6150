@@ -1,18 +1,31 @@
 * {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Neuton', serif;
+    box-sizing: border-box;
 }
 
 h1 {
     text-align: center;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Cinzel', serif;
+    font-size: 50px;
 }
 
 h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.homeImage {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
 .navigitorBar {
-    /* background-color: bisque; */
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100vw;
+    margin-left: -10px;
+    /* Why I have to do this to make the margin disappear?*/
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -20,33 +33,32 @@ h2 {
 }
 
 .indexButton {
-    background-color: blueviolet;
-    border: 1px solid white;
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 3px solid rgb(28, 28, 73);
     color: white;
     text-align: center;
     padding: 10px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
 }
 
 .indexButton:hover {
-    background-color: brown;
+    background-color: rgb(28, 28, 73);
 }
 
-.downloadResume {
-    height: 62px;
-    width: 100px;
-    background-color:midnightblue;
-    color: white;
-    border-radius: 10px;
-    margin-top: 10px;
-    text-align: center;
-    font-size: 12px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+.indexButton:active {
+    background-color: rgba(5, 5, 133, 0.9);
+    /* box-shadow: 0 3px #666; */
+    transform: translateY(2px);
 }
 
 .contactInformation {
     text-align: center;
     border: 1px solid black;
-    background-color:lightgreen;
+    background-color: lightgreen;
+    opacity: 0.9;
     margin: 10px;
     padding-top: 10px;
     display: flex;
@@ -63,67 +75,60 @@ h2 {
 
 
 .individualEducation {
+    font-size: 18px;
     text-align: center;
     border: 1px solid black;
-    background-color: aqua;
-    height: 220px;
-    margin: 10px;
+    background-color: rgba(256, 256, 256, 0.9);
+    width: 100%;
+    margin-top: 20px;
     padding: 10px;
     float: left;
 }
 
-.darkModeButton {
-    height: 72px;
-    width: 100px;
-    background-color: darkblue;
-    color: white;
-    font-weight: bold;
-    font-size: medium;
-    font-style: oblique;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    position: fixed;
-    right: 30px;
-    top: 30px;
+.universityLogos {
+    width: 360px;
+    position: absolute;
+    right: 20px;
+    margin-top: -180px;
 }
 
 .individualSkill {
     text-align: center;
     border: 1px solid black;
-    background-color:darksalmon;
+    background-color: darksalmon;
+    opacity: 0.9;
     height: 220px;
     float: left;
     margin: 8px;
     height: 68px;
-    width: 500px;
-
+    width: 100%;
+    margin-top: 20px;
 }
 
 .individualProject {
     border: 1px solid black;
     background-color: pink;
+    opacity: 0.9;
     float: left;
     padding: 10px;
     margin: 10px;
-
+    width: 100%;
 }
 
-.individualWorkExperiences{
+.individualWorkExperiences {
     border: 1px solid black;
     background-color: lightblue;
+    opacity: 0.9;
     float: left;
     padding: 10px;
     margin: 10px;
+    width: 100%;
+
 }
 
-
-.darkModeActivite {
-    background-color: black;
-    color: white;
-}
-
-.companyImage {
+.companyLogos {
     height: 100px;
     position: absolute;
-    right: 20px;
+    right: 50px;
     margin-top: -240px;
 }

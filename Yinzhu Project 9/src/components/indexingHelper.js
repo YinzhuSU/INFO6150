@@ -1,4 +1,5 @@
 export {default as Header} from "./Header.js"
+export {default as Home} from "./Home.js"
 export {default as Educations} from "./Educations.js"
 export {default as TechnicalSkills} from "./TechnicalSkills.js"
 export {default as Projects} from "./Projects.js"

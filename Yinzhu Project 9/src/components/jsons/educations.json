@@ -4,20 +4,23 @@
         "degree": "Master of Science",
         "major": "Information Systems",
         "location": "San Jose, CA",
-        "date-range": "Sep. 2022 ~ Expected May 2024"
+        "date-range": "Sep. 2022 ~ Expected May 2024",
+        "image": "https://github.com/YinzhuSU/INFO6150/blob/main/Yinzhu%20Project%209/src/images/neu%20logo.png?raw=true"
     },
     {
         "institution": "Boston University",
         "degree": "Master of Science",
         "major": "Electrical and Computer Engineering with Practice",
         "location": "Boston, MA",
-        "date-range": "Sep. 2017 ~ May 2019"
+        "date-range": "Sep. 2017 ~ May 2019",
+        "image": "https://github.com/YinzhuSU/INFO6150/blob/main/Yinzhu%20Project%209/src/images/bu%20logo.png?raw=true"
     },
     {
         "institution": "Chongqing University",
         "degree": "Bachlor of Engineering",
         "major": "Electrical Engineering and Automation",
         "location": "Chongqing, China",
-        "date-range": "Sep. 2013 ~ Jun. 2017"
+        "date-range": "Sep. 2013 ~ Jun. 2017",
+        "image": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp1.ssl.qhimg.com%2Ft019ffa8b2515a1cb8a.png&refer=http%3A%2F%2Fp1.ssl.qhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1672355982&t=6e4c0a7ef5eebe949687d3438d2ce842"
     }
 ]
