@@ -1,0 +1,1 @@
+export {default as Zelda} from "./zelda.js"
