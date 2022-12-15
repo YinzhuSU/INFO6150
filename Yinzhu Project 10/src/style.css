@@ -96,3 +96,22 @@ button:active {
     background-color:bisque;
     transform: translateY(2px);
 }
+
+
+.inputBoxDiv {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.inputBox {
+    margin-left: auto;
+    margin-right: auto;
+    width: 72%;
+    text-align: center;
+}
