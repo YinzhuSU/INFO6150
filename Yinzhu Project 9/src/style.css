@@ -132,3 +132,20 @@ h2 {
     right: 50px;
     margin-top: -240px;
 }
+
+.icons {
+    background-color: rgba(255, 255, 255, 0.4);
+    /* background-color: aqua; */
+    margin-top: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 56%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.icon {
+    height: 100px;
+    margin: 20px;
+}
